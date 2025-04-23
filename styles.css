@@ -19,5 +19,11 @@ header h1 {
     font-family: audiowide, sans-serif;
 }
 body{
-    background-color: rgb(255, 255, 255);
+    font-family: audiowide, sans-serif;
+    background-color: rgb(8, 8, 8);
 }
+.card-header .nav-tabs .nav-link.active{
+    background-color: #212529; 
+    color: white;
+    border-color: #495057 #495057 #212529;
+    ;}
